@@ -166,7 +166,7 @@ const About = () => {
         <ButtonContainer>
         <ThemeProvider theme={dark}>
         <Button text="Veja meu linkedin" link="https://www.linkedin.com/in/gabriel-goncalves-pacheco-a77b4a210/" />_
-        <Button text="Baixe meu currículo" link="https://drive.google.com/file/d/1pT5Vvw4MQUryA7n8KlTg9t2Fnyk0N13Y/view?usp=sharing"/>
+        <Button text="Veja meu currículo" link="https://drive.google.com/file/d/1ub_UfoQ5O85_4VbrsHhlPx5jgATSRwnl/view?usp=share_link"/>
         </ThemeProvider>
         </ButtonContainer>
          </Box>
