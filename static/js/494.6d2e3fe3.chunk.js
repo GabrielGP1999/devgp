@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkthe_weirdos=self.webpackChunkthe_weirdos||[]).push([[494],{6966:function(n,i,t){t.r(i),t.d(i,{default:function(){return u}});var e,h=t(168),a=(t(2791),t(6444)),d=t.p+"static/media/myAvatar.2b3093bf4a514b6c934f.png",r=t(184),s=a.ZP.div(e||(e=(0,h.Z)(["\nwidth: 100%;\n\nimg{\n    width: 75%;\n    height: auto;\n}\n\n@media (max-width: 64em) {\n  min-width: 40vh;\n}\n"]))),u=function(){return(0,r.jsx)(s,{children:(0,r.jsx)("img",{src:d,type:"img"})})}}}]);
+//# sourceMappingURL=494.6d2e3fe3.chunk.js.map
