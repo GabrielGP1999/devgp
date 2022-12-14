@@ -175,8 +175,7 @@ const Navigation = () => {
           <MenuItem onClick={() => scrollTo('home')}  >Home</MenuItem>
           <MenuItem onClick={() => scrollTo('about')}  >Sobre</MenuItem>
           <MenuItem onClick={() => scrollTo('roadmap')}  >Roadmap</MenuItem>
-          <MenuItem onClick={() => scrollTo('showcase')}  >Skills</MenuItem>
-          <MenuItem onClick={() => scrollTo('team')}  >Team</MenuItem>
+          <MenuItem onClick={() => scrollTo('showcase')}  >Projetos</MenuItem>
           <MenuItem onClick={() => scrollTo('faq')}  >Perguntas</MenuItem>
           <MenuItem onClick={() => scrollTo('footer')}>
             <div className="mobile">
