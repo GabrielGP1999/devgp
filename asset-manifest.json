@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/devgp/static/css/main.0ce1e749.css",
-    "main.js": "/devgp/static/js/main.2e9d7f09.js",
+    "main.js": "/devgp/static/js/main.050195f3.js",
     "static/css/842.58fb0d5a.chunk.css": "/devgp/static/css/842.58fb0d5a.chunk.css",
     "static/js/842.793523ca.chunk.js": "/devgp/static/js/842.793523ca.chunk.js",
     "static/js/494.6d2e3fe3.chunk.js": "/devgp/static/js/494.6d2e3fe3.chunk.js",
@@ -37,7 +37,7 @@
     "static/media/Arrow.svg": "/devgp/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
     "index.html": "/devgp/index.html",
     "main.0ce1e749.css.map": "/devgp/static/css/main.0ce1e749.css.map",
-    "main.2e9d7f09.js.map": "/devgp/static/js/main.2e9d7f09.js.map",
+    "main.050195f3.js.map": "/devgp/static/js/main.050195f3.js.map",
     "842.58fb0d5a.chunk.css.map": "/devgp/static/css/842.58fb0d5a.chunk.css.map",
     "842.793523ca.chunk.js.map": "/devgp/static/js/842.793523ca.chunk.js.map",
     "494.6d2e3fe3.chunk.js.map": "/devgp/static/js/494.6d2e3fe3.chunk.js.map",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.0ce1e749.css",
-    "static/js/main.2e9d7f09.js"
+    "static/js/main.050195f3.js"
   ]
 }
